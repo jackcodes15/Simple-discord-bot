@@ -8,3 +8,5 @@ I have deleted all of my responses so you can implement your own.
 Make sure you make a discord bot via discord and copy the token.
 
 P.S. the files each have a 2 on the end as its not the original file im using so you can use your own responses, discord bot token and stuff like that.
+
+PLEASE DM ME ON DISCORD AT elitex14 if you have any issues, questions or anything like that!!!!
